@@ -163,7 +163,7 @@ def generate_image(num, gen, shiny=False, gender="f", form=""):
 
 # to run the program a bunch of times
 # good tests 227, 643, 69, 758, 553, 500, 329, 339, 348
-for i in range(50):
-    generate_image(randint(1, 600), "sun", False)
+for i in range(100):
+    generate_image(randint(1, 806), "ultrasun", False)
 # for i in range(300, 350):
 #     generate_image(i, "shield", False, "")
