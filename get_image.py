@@ -36,7 +36,7 @@ def get_gen(game):
         "diamond":"4d", "pearl":"4d", "platinum":"4p", "heartgold":"4h", "soulsilver":"4h",
         "black":"5b", "white":"5b", "black2":"5b", "white2":"5b",
         "x":"6x", "y":"6x", "omegaruby":"6x", "alphasapphire":"6x",
-        "sun":"7s", "moon":"7s", "ultrasun":"7u", "ultramoon":"7u", "letsgopikachu":"7p", "letsgoeevee":"7p",
+        "sun":"7s", "moon":"7s", "ultrasun":"7s", "ultramoon":"7s", "letsgopikachu":"7p", "letsgoeevee":"7p",
         "sword":"8s", "shield":"8s"
     }
 
